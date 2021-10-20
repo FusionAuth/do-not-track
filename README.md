@@ -6,3 +6,4 @@ A voluntary list of sites not using tracking cookies.
 1. Submit a PR to add your name and website to the list. 
 2. We accept the PR
 3. There is much rejoicing. 
+4. See your name show up on [https://donotrack.dev](https://donotrack.dev)
