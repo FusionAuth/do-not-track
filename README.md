@@ -1,5 +1,5 @@
 # No Tracking
-A voluntary list of sites not using tracking cookies.
+A voluntary list of sites not using tracking in the form of cookies, or other mechanisms. 
 
 # How to contribute
 
